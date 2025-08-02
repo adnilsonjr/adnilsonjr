@@ -14,7 +14,7 @@ Focado em desenvolver aplicações web utilizando no Front-end React e Node.js n
 ![javascript](https://img.shields.io/badge/javascript-000?style=flat&logo=javascript)
 
 ### 📬 contato
-![email](adnilsonalves7@gmail.com)
+- [email](adnilsonalves7@gmail.com)
 
 
 
