@@ -15,6 +15,7 @@ Focado em desenvolver aplicações web utilizando no Front-end React e Node.js n
 
 ### 📬 contato
 - [email](adnilsonalves7@gmail.com)
+- [LinkedIn](www.linkedin.com/in/adnilson-júnior-1b8b03378)
 
 
 
