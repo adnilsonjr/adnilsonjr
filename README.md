@@ -11,7 +11,7 @@ Focado em desenvolver aplicações web utilizando no Front-end React e no Back-e
 ![HTML5](https://img.shields.io/badge/html-000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3)
 ![javascript](https://img.shields.io/badge/javascript-000?style=flat&logo=javascript)
-![TypeScript]((https://img.shields.io/badge/typescript-000?style=flat&logo=typescript))
+![TypeScript](https://img.shields.io/badge/typescript-000?style=flat&logo=typescript)
 ![NodeJS](https://img.shields.io/badge/node.js-000?style=flat&logo=node.js)
 
 
